@@ -38,7 +38,7 @@ This script requires the following:
 3. Run the script using the following command:
 
 ```python
-python lane_detection.py
+python lane_detection_oneFrame.py
 ```
 
 4. The script will process the video and generate a new video with overlaid lane lines and curvature information.
